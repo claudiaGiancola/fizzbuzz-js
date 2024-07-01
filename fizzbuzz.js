@@ -5,7 +5,7 @@ function fizzbuzz() {
     
     console.log('Welcome to FizzBuzz!');
 
-    // Put your code here...
+    console.log('Hello World!');
 
     
 }
