@@ -5,8 +5,9 @@ function fizzbuzz() {
     
     console.log('Welcome to FizzBuzz!');
 
-    console.log('Hello World!');
-
+    for (let i=1; i <= 100; i++) {
+        console.log(i);
+    }
     
 }
 
