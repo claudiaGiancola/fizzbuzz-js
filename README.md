@@ -5,12 +5,9 @@ Run this command to run your code:
 
 ### Learning goals
 
-Basic goals:
 - Basic JS Syntax
 - Basics of git
 - Debugging in VSCode > breakpoints, Watch
-
-Bonus Goals:
 - Writing clean code
 
 ### Set up
