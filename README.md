@@ -3,8 +3,7 @@
 Run this command to run your code:  
 `node fizzbuzz.js`
 
-### Learning goals
-
+Goals:
 - Basic JS Syntax
 - Basics of git
 - Debugging in VSCode > breakpoints, Watch
