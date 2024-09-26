@@ -3,7 +3,7 @@
 Run this command to run your code:  
 `node fizzbuzz.js`
 
-###Learning goals
+### Learning goals
 
 Basic goals:
 - Basic JS Syntax
@@ -13,7 +13,7 @@ Basic goals:
 Bonus Goals:
 - Writing clean code
 
-###Set up
+### Set up
 Install node.js
 Install Git Bash
 Add `.gitignore` file
@@ -24,7 +24,7 @@ Useful git commands:
 `git commit -m "Informative commit message goes here"`
 `git push`
 
-###Incremental updates
+### Incremental updates
 1. Print every number from 1 to 100.
 2. Print “Fizz“ whenever the number is a multiple of 3 instead of the number itself.
 3. Print “Buzz” whenever the number is a multiple of 5. Print “FizzBuzz” whenever the number is a multiple of 3 and 5.
